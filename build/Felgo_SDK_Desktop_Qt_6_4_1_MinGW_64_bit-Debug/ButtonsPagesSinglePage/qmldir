@@ -1,0 +1,4 @@
+module ButtonsPagesSinglePage
+typeinfo appButtonsPagesSinglePage.qmltypes
+prefer :/
+
